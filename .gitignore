@@ -1,0 +1,7 @@
+venv/
+data_ZNO_NMT/
+.DS_Store
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+__pycache__/
